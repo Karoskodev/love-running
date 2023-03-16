@@ -279,6 +279,14 @@ footer {
     hr {
         display: none;
     }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    } 
+
 }
 
 /* for screen sizes from 950px and down */
@@ -317,4 +325,6 @@ footer {
         padding: 0 20px;
 
     }
+
+
 }
